@@ -7,3 +7,6 @@ fun main() {
     val res = compose(::square, ::triple)(2)
     println(res)
 }
+
+// ANSWER: 
+// res = 36
